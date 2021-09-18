@@ -1,0 +1,33 @@
+.main{
+    nav-right: auto;
+    image-rendering: auto;
+    text-align: center;
+}
+
+.video{
+    list-style-position: inside;
+    margin-left: 0%;
+    margin-right: 0%;
+}
+
+.video{
+    margin-top: 0%;
+    margin-right: 0%;
+}
+
+.carousel{
+    image-resolution: auto;
+}
+
+.solo{
+    text-align: left;
+    text-align: right;
+}
+
+.login{
+    align-items: center;
+    background: rgba(239, 108, 171, 1);
+   height: 70;
+   justify-content: center;
+   width: 80;
+}
